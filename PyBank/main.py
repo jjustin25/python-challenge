@@ -52,8 +52,6 @@ with open(load_budget,newline ="") as budget_data:
 
 avg_revenue = total_revenue/total_months
 
-
-
        
 print ("Financial Analysis")
 print("___________________")
